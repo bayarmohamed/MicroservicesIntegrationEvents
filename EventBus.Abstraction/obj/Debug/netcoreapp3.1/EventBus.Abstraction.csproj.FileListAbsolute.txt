@@ -1,0 +1,8 @@
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\bin\Debug\netcoreapp3.1\EventBus.Abstraction.deps.json
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\bin\Debug\netcoreapp3.1\EventBus.Abstraction.dll
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\bin\Debug\netcoreapp3.1\EventBus.Abstraction.pdb
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\obj\Debug\netcoreapp3.1\EventBus.Abstraction.AssemblyInfoInputs.cache
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\obj\Debug\netcoreapp3.1\EventBus.Abstraction.AssemblyInfo.cs
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\obj\Debug\netcoreapp3.1\EventBus.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\obj\Debug\netcoreapp3.1\EventBus.Abstraction.dll
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\EventBus.Abstraction\obj\Debug\netcoreapp3.1\EventBus.Abstraction.pdb

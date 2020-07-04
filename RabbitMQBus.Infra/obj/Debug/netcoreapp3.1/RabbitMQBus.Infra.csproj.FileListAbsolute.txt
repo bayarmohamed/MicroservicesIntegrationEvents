@@ -1,0 +1,12 @@
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\bin\Debug\netcoreapp3.1\RabbitMQBus.Infra.deps.json
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\bin\Debug\netcoreapp3.1\RabbitMQBus.Infra.dll
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\bin\Debug\netcoreapp3.1\RabbitMQBus.Infra.pdb
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\bin\Debug\netcoreapp3.1\EventBus.Abstraction.dll
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\bin\Debug\netcoreapp3.1\EventBus.Abstraction.pdb
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\obj\Debug\netcoreapp3.1\RabbitMQBus.Infra.csprojAssemblyReference.cache
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\obj\Debug\netcoreapp3.1\RabbitMQBus.Infra.AssemblyInfoInputs.cache
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\obj\Debug\netcoreapp3.1\RabbitMQBus.Infra.AssemblyInfo.cs
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\obj\Debug\netcoreapp3.1\RabbitMQBus.Infra.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\obj\Debug\netcoreapp3.1\RabbitMQBus.Infra.csproj.CopyComplete
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\obj\Debug\netcoreapp3.1\RabbitMQBus.Infra.dll
+C:\Users\MOHAMED\source\repos\MicroserviceDemoEvents\RabbitMQBus.Infra\obj\Debug\netcoreapp3.1\RabbitMQBus.Infra.pdb
